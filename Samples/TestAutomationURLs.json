@@ -1,5 +1,5 @@
 {
-  "TestURLs": 
+  "https://apps.powerapps.com/play/6da734a8-e121-41a6-b2ab-99b97271515d?tenantId=3396aca1-fabb-4160-b200-e0c07122e454&__PATestCaseId=d3469fd0-55ae-4954-bf1f-85821e6a92ad&source=testStudioLink": 
   [
     "https://apps.powerapps.com/play/{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}",
     "https://apps.powerapps.com/play/{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}",
